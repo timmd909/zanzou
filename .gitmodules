@@ -1,4 +1,0 @@
-[submodule "provisioning/izanagi"]
-	path = provisioning/izanagi
-	url = git@github.com:timmd909/izanagi.git
-	ignore = dirty
