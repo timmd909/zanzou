@@ -1,9 +1,12 @@
 [submodule "provisioning/roles/common"]
-	path = provisioning/common
+	path = provisioning/roles/common
 	url = git@github.com:timmd909/izanagi-role-common.git
 [submodule "provisioning/roles/sql-server"]
-	path = provisioning/sql-server
+	path = provisioning/roles/sql-server
 	url = git@github.com:timmd909/izanagi-role-sql-server.git
 [submodule "provisioning/roles/web-server"]
-	path = provisioning/web-server
+	path = provisioning/roles/web-server
 	url = git@github.com:timmd909/izanagi-role-web-server.git
+[submodule "provisioning/roles/photo-server"]
+	path = provisioning/roles/photo-server
+	url = git@github.com:timmd909/izanagi-role-photo-server.git
